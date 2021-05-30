@@ -62,6 +62,7 @@ namespace FTD_BlockReplacer
                 }
             }
             File.WriteAllText(openFileDialog1.FileName, json.ToString());
+            MessageBox.Show("置き換え完了");
         }
     }
 }
