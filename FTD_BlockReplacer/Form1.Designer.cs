@@ -79,8 +79,7 @@ namespace FTD_BlockReplacer
             "軽合金(Light-weight Alloy)",
             "石(Stone)",
             "鉛(Lead)",
-            "ヘビーアーマー(Heavy Armour)",
-            "ゴム(Rubber)"});
+            "ヘビーアーマー(Heavy Armour)"});
             this.BeforeBlock.Location = new System.Drawing.Point(12, 228);
             this.BeforeBlock.Name = "BeforeBlock";
             this.BeforeBlock.Size = new System.Drawing.Size(321, 23);
@@ -95,8 +94,7 @@ namespace FTD_BlockReplacer
             "軽合金(Light-weight Alloy)",
             "石(Stone)",
             "鉛(Lead)",
-            "ヘビーアーマー(Heavy Armour)",
-            "ゴム(Rubber)"});
+            "ヘビーアーマー(Heavy Armour)"});
             this.AfterBlock.Location = new System.Drawing.Point(467, 228);
             this.AfterBlock.Name = "AfterBlock";
             this.AfterBlock.Size = new System.Drawing.Size(321, 23);
@@ -143,8 +141,9 @@ namespace FTD_BlockReplacer
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.BPPath);
+            this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "FTD_BlockReplace(材質変換機)";
+            this.Text = "FTD_BlockReplacer(材質変換機)";
             this.ResumeLayout(false);
             this.PerformLayout();
 
