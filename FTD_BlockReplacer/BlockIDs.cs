@@ -546,6 +546,7 @@
     "10290", "c61c1c19-cc53-49a2-b207-9de6b9ce328a",
     "4000", "e63040c9-0027-4fd3-be30-67fe3e950140"
         };
-
+        public static readonly string[] Nuke = new string[] 
+        { "114514","06484d1a-d956-49a4-b9de-e779696d001c" };
     }
 }

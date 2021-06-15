@@ -79,7 +79,8 @@ namespace FTD_BlockReplacer
             "軽合金(Light-weight Alloy)",
             "石(Stone)",
             "鉛(Lead)",
-            "ヘビーアーマー(Heavy Armour)"});
+            "ヘビーアーマー(Heavy Armour)",
+            "戦術核(Tactical Nuke)"});
             this.BeforeBlock.Location = new System.Drawing.Point(12, 228);
             this.BeforeBlock.Name = "BeforeBlock";
             this.BeforeBlock.Size = new System.Drawing.Size(321, 23);
@@ -94,7 +95,8 @@ namespace FTD_BlockReplacer
             "軽合金(Light-weight Alloy)",
             "石(Stone)",
             "鉛(Lead)",
-            "ヘビーアーマー(Heavy Armour)"});
+            "ヘビーアーマー(Heavy Armour)",
+            "戦術核(Tactical Nuke)"});
             this.AfterBlock.Location = new System.Drawing.Point(467, 228);
             this.AfterBlock.Name = "AfterBlock";
             this.AfterBlock.Size = new System.Drawing.Size(321, 23);
